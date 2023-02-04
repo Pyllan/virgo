@@ -1,0 +1,73 @@
+h2 {
+    color: purple;
+    background-color: linen;
+}
+
+#image1{
+    text-align: center;
+    background-color: palevioletred;
+    padding: 10px 10px;
+    margin: 25px;
+}
+
+#text1{
+    color: whitesmoke;
+}
+
+#paragraph{
+    background-color:whitesmoke;
+}
+
+nav a:hover{
+    padding: 5px 5px;
+    background-color: blueviolet;
+    margin: 5px;
+    color: whitesmoke;
+}
+nav {
+    overflow: hidden;
+}
+
+#image2 {
+    text-align: center;
+    background-color: plum;
+    padding: 10px 10px;
+    margin: 25px;
+}
+
+#text2{
+    color: white;
+}
+
+#image3{
+    background-color: mediumorchid;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 25px;
+}
+
+#text3{
+    color: white;
+}
+
+footer>a:hover{
+    background-color: purple;
+    color: aliceblue;
+    padding: 5px 5px;
+}
+
+h5{
+    color: purple;
+}
+
+#facebook{
+    color: blueviolet;
+}
+
+#paragraph1{
+    background-color: whitesmoke;
+}
+
+#paragraph2{
+    background-color: whitesmoke;
+}
